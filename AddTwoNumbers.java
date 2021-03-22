@@ -1,3 +1,4 @@
+// add two number
 import java.util.Scanner;
 public class AddTwoNumbers {
 
